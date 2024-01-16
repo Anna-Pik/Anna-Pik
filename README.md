@@ -10,7 +10,7 @@ https://t.me/Anna_Pikuleva
 
 __Обучение__:
 
-![Analitik data](https://github.com/Anna-Pik/AnnaPikuleva/blob/main/Аналитик%20данных.png)
+![Analitik data](https://github.com/Anna-Pik/Anna-Pik/blob/main/Аналитик%20данных.png)
 
 ![Statistica](https://github.com/Anna-Pik/AnnaPikuleva/blob/main/Основы%20статистики_Stepik-1.png)
 
