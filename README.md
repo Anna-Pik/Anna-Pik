@@ -1,16 +1,17 @@
-### Hi there 👋
+# AnnaPikuleva
 
-<!--
-**Anna-Pik/Anna-Pik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+__О себе__
 
-Here are some ideas to get you started:
+Меня зовут Анна Пикулева, с июня 2023 года я изучаю аналитику данных. Я прошла несколько онлайн курсов, с помощью которых освоила Python, SQL, математическую статистику, теорию вероятности, продуктовые метрики и фреймворки для развития продукта. На академических проектах практиковалась в проведение статистических тестов, создании дашбордов в Tableau, использовании GIT и AIRFLOW.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+__Контакты__:
+
+https://t.me/Anna_Pikuleva 
+
+__Обучение__:
+
+![Analitik data](https://github.com/Anna-Pik/AnnaPikuleva/blob/main/Аналитик%20данных.png)
+
+![Statistica](https://github.com/Anna-Pik/AnnaPikuleva/blob/main/Основы%20статистики_Stepik-1.png)
+
+![SQL](https://github.com/Anna-Pik/AnnaPikuleva/blob/main/SQL_Stepik-1.png)
