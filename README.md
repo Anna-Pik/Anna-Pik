@@ -12,6 +12,6 @@ __Обучение__:
 
 ![Analitik data](https://github.com/Anna-Pik/Anna-Pik/blob/main/Аналитик%20данных.png)
 
-![Statistica](https://github.com/Anna-Pik/AnnaPikuleva/blob/main/Основы%20статистики_Stepik-1.png)
+![Statistica](https://github.com/Anna-Pik/Anna-Pik/blob/main/Основы%20статистики_Stepik.png)
 
-![SQL](https://github.com/Anna-Pik/AnnaPikuleva/blob/main/SQL_Stepik-1.png)
+![SQL](
