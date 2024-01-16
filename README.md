@@ -14,4 +14,4 @@ __Обучение__:
 
 ![Statistica](https://github.com/Anna-Pik/Anna-Pik/blob/main/Основы%20статистики_Stepik.png)
 
-![SQL](
+![SQL](https://github.com/Anna-Pik/Anna-Pik/blob/main/SQL_Stepik.png)
