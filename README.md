@@ -1,4 +1,4 @@
-# AnnaPikuleva
+# Anna Pikuleva
 
 __О себе__
 
@@ -17,7 +17,7 @@ https://t.me/Anna_Pikuleva
 
 Anna.pik@inbox.ru
 
-__Обучение__:
+__Образование__:
 
 ![Analitik data](https://github.com/Anna-Pik/Anna-Pik/blob/main/Аналитик%20данных.png)
 
