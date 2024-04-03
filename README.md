@@ -4,8 +4,8 @@ __О себе__
 
 Меня зовут Анна Пикулева, с июня 2023 года я изучаю аналитику данных. Аналитика данных дает возможность работать с разнообразными данными и использовать различные методы и инструменты, что делает работу в этой сфере увлекательной и разнообразной. А также быть в центре цифровой трансформации и влиять на развитие компании через анализ данных, что делает профессию аналитика данных востребованной и перспективной.
 Я прошла несколько онлайн курсов, с помощью которых освоила 
-![Python](https://github.com/Anna-Pik/Anna-Pik/blob/main/python.png) 
-<img src="https://github.com/Anna-Pik/Anna-Pik/blob/main/python.png" width="200">
+
+<img src="https://github.com/Anna-Pik/Anna-Pik/blob/main/python.png" width="100">
 
 , Pandas, NumPy, AirFlow, SQL, PostgreSQL, ClickHouse, Redash, Tableau, Git, A/B тесты. 
 
