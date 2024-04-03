@@ -6,6 +6,7 @@ __О себе__
 Я прошла несколько онлайн курсов, с помощью которых освоила 
 
 <img src="https://github.com/Anna-Pik/Anna-Pik/blob/main/python.png" width="100">
+<img src="https://github.com/Anna-Pik/Anna-Pik/blob/main/pandas.png" width="100">
 
 , Pandas, NumPy, AirFlow, SQL, PostgreSQL, ClickHouse, Redash, Tableau, Git, A/B тесты. 
 
