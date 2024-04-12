@@ -14,14 +14,13 @@ __Стек__:
 
 __Контакты__:
 
-[![Telegram](https://img.shields.io/badge/Telegram-0b0038?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Anna_Pikuleva)
-[![Gmail](https://img.shields.io/badge/Gmail-0b0038?style=for-the-badge&logo=gmail&logoColor=red)](Anna.pik@inbox.ru)
-
 https://t.me/Anna_Pikuleva 
 
 Anna.pik@inbox.ru
 
-__Образование__:
+__Курсы__:
+
+[![Karpov.courses](https://img.shields.io/badge/Karpov-courses-0b0038?style=for-the-badge&logo=Karpov&logoColor=blue)](https://lab.karpov.courses/certificate/6a69eaf4-cc7c-4723-ac6f-0f914e2ca68a/) <br>
 
 ![Analitik data](https://github.com/Anna-Pik/Anna-Pik/blob/main/Аналитик%20данных.png)
 
