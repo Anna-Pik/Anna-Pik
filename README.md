@@ -7,8 +7,9 @@ __О себе__
 
 __Стек__:
 
+<div align="center">
 <img src="https://github.com/Anna-Pik/Anna-Pik/blob/main/python.png" width="100"> <img src="https://github.com/Anna-Pik/Anna-Pik/blob/main/pandas.png" width="100"> <img src="https://github.com/Anna-Pik/Anna-Pik/blob/main/NumPy.png" width="100"> <img src="https://github.com/Anna-Pik/Anna-Pik/blob/main/AirFlow.png" width="100"> <img src="https://github.com/Anna-Pik/Anna-Pik/blob/main/PostgreSQL.png" width="100"> <img src="https://github.com/Anna-Pik/Anna-Pik/blob/main/ClickHouse.png" width="100"> <img src="https://github.com/Anna-Pik/Anna-Pik/blob/main/Redash.png" width="150"> <img src="https://github.com/Anna-Pik/Anna-Pik/blob/main/Tableau.png" width="100"> <img src="https://github.com/Anna-Pik/Anna-Pik/blob/main/Git.png" width="100"> <img src="https://github.com/Anna-Pik/Anna-Pik/blob/main/AB_test.png" width="150">
-
+</div>
 
 <div align="center">
 
