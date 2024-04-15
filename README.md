@@ -20,10 +20,12 @@ Anna.pik@inbox.ru
 
 __Курсы__:
 
-
-Analitik data
-
+<details>	   
+  <summary><b> Analitik data</b></summary>
+  
 [![Karpov.courses](https://img.shields.io/badge/Karpov-courses-0b0038?style=for-the-badge&logo=Karpov&logoColor=blue)](https://lab.karpov.courses/certificate/6a69eaf4-cc7c-4723-ac6f-0f914e2ca68a/) <br>
+
+</details>
 
 Python Basics course
 
