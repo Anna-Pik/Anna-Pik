@@ -46,8 +46,3 @@ __Курсы__:
 [![stepik](https://img.shields.io/badge/stepik-0b0038?style=for-the-badge&logo=Karpov&logoColor=blue)](https://stepik.org/cert/2117565?lang=en) <br>
 </details>
 
-![Analitik data](https://github.com/Anna-Pik/Anna-Pik/blob/main/Аналитик%20данных.png)
-
-![Statistica](https://github.com/Anna-Pik/Anna-Pik/blob/main/Основы%20статистики_Stepik.png)
-
-![SQL](https://github.com/Anna-Pik/Anna-Pik/blob/main/SQL_Stepik.png)
