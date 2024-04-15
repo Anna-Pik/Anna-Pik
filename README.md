@@ -20,7 +20,7 @@ Anna.pik@inbox.ru
 
 __Курсы__:
 
-<div align="center">
+
 Analitik data
 [![Karpov.courses](https://img.shields.io/badge/Karpov-courses-0b0038?style=for-the-badge&logo=Karpov&logoColor=blue)](https://lab.karpov.courses/certificate/6a69eaf4-cc7c-4723-ac6f-0f914e2ca68a/) <br>
 
@@ -30,7 +30,7 @@ Python Basics course
 
 Basic of statistics
 [![stepik](https://img.shields.io/badge/stepik-0b0038?style=for-the-badge&logo=Karpov&logoColor=blue)](https://stepik.org/cert/2111141?lang=en) <br>
-</div>
+
 
 
 ![Analitik data](https://github.com/Anna-Pik/Anna-Pik/blob/main/Аналитик%20данных.png)
