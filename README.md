@@ -21,25 +21,25 @@ Anna.pik@inbox.ru
 __Курсы__:
 
 <details>	   
-  <summary><b> Analitik data</b></summary>
-  
+  <summary><b> Data analyst course of Karpov.courses</b></summary> 
 [![Karpov.courses](https://img.shields.io/badge/Karpov-courses-0b0038?style=for-the-badge&logo=Karpov&logoColor=blue)](https://lab.karpov.courses/certificate/6a69eaf4-cc7c-4723-ac6f-0f914e2ca68a/) <br>
 
 </details>
 
-Python Basics course
-
+<details>	   
+  <summary><b> Python Basics course of Karpov.courses</b></summary>
 [![Karpov.courses](https://img.shields.io/badge/Karpov-courses-0b0038?style=for-the-badge&logo=Karpov&logoColor=blue)](https://lab.karpov.courses/certificate/e4cbf057-d66c-4d39-8bec-d0325a4d9b41/) <br>
+</details>
 
-
-Basic of statistics
-
+<details>	   
+  <summary><b> Basic of statistics of stepik</b></summary>
 [![stepik](https://img.shields.io/badge/stepik-0b0038?style=for-the-badge&logo=Karpov&logoColor=blue)](https://stepik.org/cert/2111141?lang=en) <br>
+</details>
 
-Начальный курс SQL: от Новичка до Специалиста
-
+<details>	   
+  <summary><b> SQL Course of stepik</b></summary>
 [![stepik](https://img.shields.io/badge/stepik-0b0038?style=for-the-badge&logo=Karpov&logoColor=blue)](https://stepik.org/cert/2117565?lang=en) <br>
-
+</details>
 
 ![Analitik data](https://github.com/Anna-Pik/Anna-Pik/blob/main/Аналитик%20данных.png)
 
