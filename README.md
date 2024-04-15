@@ -31,6 +31,8 @@ Python Basics course
 Basic of statistics
 [![stepik](https://img.shields.io/badge/stepik-0b0038?style=for-the-badge&logo=Karpov&logoColor=blue)](https://stepik.org/cert/2111141?lang=en) <br>
 
+Начальный курс SQL: от Новичка до Специалиста
+[![stepik](https://img.shields.io/badge/stepik-0b0038?style=for-the-badge&logo=Karpov&logoColor=blue)](https://stepik.org/cert/2117565?lang=en) <br>
 
 
 ![Analitik data](https://github.com/Anna-Pik/Anna-Pik/blob/main/Аналитик%20данных.png)
